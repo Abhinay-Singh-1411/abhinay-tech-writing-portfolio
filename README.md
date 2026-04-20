@@ -8,6 +8,6 @@ Content will include:
 - User guides and tutorials
 - Content-design notes and micro-copy samples
 
-Portfolio site: https://Abhinay-Singh-1411.github.io/abhinay-docs-portfolio
+Go to Wiki to see worked documentation.
 
 Contact: abhinay.work.1411@gmail.com | www.linkedin.com/in/abhinay-singh-8a2213269
