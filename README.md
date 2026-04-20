@@ -8,6 +8,6 @@ Content will include:
 - User guides and tutorials
 - Content-design notes and micro-copy samples
 
-Go to Wiki to see worked documentation.
+Go to the Wiki to see the worked documentation.
 
 Contact: abhinay.work.1411@gmail.com | www.linkedin.com/in/abhinay-singh-8a2213269
